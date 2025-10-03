@@ -1,3 +1,9 @@
+# GROUP 13 FINAL PROJECT CODE SUBMISSION
+## PROJECT SUPERVISOR: PROF. ROBERT SOWAH
+## WAQAS HAARIS ALI - 10947015
+## MEGAN WELSING - 10958757
+
+
 # 🏥 Paediatric Hospital Management System (PHMS)
 
 > A comprehensive, AI-enhanced hospital management system specifically designed for paediatric healthcare facilities, integrating patient management, clinical processes, and administrative functions into a unified platform.
