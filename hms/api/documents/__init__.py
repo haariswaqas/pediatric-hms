@@ -1,0 +1,10 @@
+from .profile_documents import DoctorProfileDocument
+from .admission_documents import AdmissionDocument
+from .user_documents import UserDocument
+from .child_documents import ChildDocument
+from .appointment_documents import AppointmentDocument
+from .diagnosis_documents import DiagnosisDocument
+from .drug_documents import DrugDocument, DrugInteractionDocument
+from .prescription_documents import PrescriptionItemDocument
+from .vaccination_documents import VaccinationRecordDocument
+from .lab_documents import LabRequestItemDocument, LabResultParameterDocument
